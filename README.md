@@ -22,8 +22,11 @@ Since the countries and education level are strings, and our model only understa
   conda activate ml
 
 2. Install packages
- 
+
+'''
 pip install streamlit
+'''
+
 and you'll need 
 numpy pandas matplotlib scikit-learn sklearn
 
