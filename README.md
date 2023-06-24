@@ -32,3 +32,6 @@ numpy pandas matplotlib scikit-learn sklearn
 
 ## Run the App: 
 streamlit run app.py
+
+## References
+[YT Tutorial by Patrick Loeber](https://youtu.be/xl0N7tHiwlw)
