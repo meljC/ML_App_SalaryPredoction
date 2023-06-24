@@ -16,19 +16,31 @@ For the model we took only 5 columns, and kept only data for full-time employmen
 
 Since the countries and education level are strings, and our model only understands numbers - we need to transform them into numbers. For this we use the label encoder from sklearn.
 
-## Project Setup: 
-1. Create a virtual environment (conda or python)
-  conda create -n ml python=3.10
-  conda activate ml
+## Project Setup 
+1. Create & Activate a virtual environment (conda or python)
+```
+conda create -n ml python=3.10
+conda activate ml
+```
 
 2. Install packages
- 
+
+```
 pip install streamlit
+```
+
 and you'll need 
 numpy pandas matplotlib scikit-learn sklearn
 
 3. Install a kernel for this virtual environment
- ipython kernel install --user --name=ml
+```
+ipython kernel install --user --name=ml
+```
 
-## Run the App: 
+## Run the App 
+```
 streamlit run app.py
+```
+## References
+
+[1] [YT Tutorial by Patrick Loeber](https://youtu.be/xl0N7tHiwlw)
