@@ -1,6 +1,8 @@
 # ML Web App for Salary Prediction With Streamlit
 
-We're building a Machine Learning web application from scratch in Python with Streamlit, using real world data (from nearly 65,000 developers). 
+We're building a Machine Learning web application from scratch in Python with Streamlit, using real world data (from nearly 65,000 developers). The app predicts Software Engineers salaries.
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://meljc-ml-app-salary-prediction-app-ljiyyn.streamlit.app)
 
 ## Data
 The 2020 Developer Survey from Stack Overflow
